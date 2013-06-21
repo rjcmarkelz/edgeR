@@ -1,5 +1,11 @@
 #edgeR tutorial
 #from edgeR users guide
+
+#Assumptions about count data.
+#Greater numbers of counts, greater variance?
+#weighting by library size?
+
+
 #RNA-Seq of pathogen inoculated Arabidopsis with batch effects
 setwd("/Users/Cody_2/git.repos/edgeR")
 
